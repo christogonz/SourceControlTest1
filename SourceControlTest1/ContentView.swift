@@ -15,9 +15,6 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Chris Gonzalez")
             
-            Button(action: {}, label: {
-                Text("Click Me")
-            })
         }
         .padding()
         .padding()
