@@ -11,6 +11,7 @@
 		C2A6C8C72C46E1C6007810B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A6C8C62C46E1C6007810B8 /* ContentView.swift */; };
 		C2A6C8C92C46E1C7007810B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A6C8C82C46E1C7007810B8 /* Assets.xcassets */; };
 		C2A6C8CC2C46E1C7007810B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A6C8CB2C46E1C7007810B8 /* Preview Assets.xcassets */; };
+		C2A6C8D32C46EC61007810B8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A6C8D22C46EC61007810B8 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C2A6C8C62C46E1C6007810B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C2A6C8C82C46E1C7007810B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2A6C8CB2C46E1C7007810B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C2A6C8D22C46EC61007810B8 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				C2A6C8C62C46E1C6007810B8 /* ContentView.swift */,
 				C2A6C8C82C46E1C7007810B8 /* Assets.xcassets */,
 				C2A6C8CA2C46E1C7007810B8 /* Preview Content */,
+				C2A6C8D22C46EC61007810B8 /* HomeView.swift */,
 			);
 			path = SourceControlTest1;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2A6C8D32C46EC61007810B8 /* HomeView.swift in Sources */,
 				C2A6C8C72C46E1C6007810B8 /* ContentView.swift in Sources */,
 				C2A6C8C52C46E1C6007810B8 /* SourceControlTest1App.swift in Sources */,
 			);
