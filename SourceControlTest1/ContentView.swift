@@ -14,6 +14,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Chris Gonzalez")
+            
+            Button(action: {}, label: {
+                Text("Click Me")
+            })
         }
         .padding()
         .padding()
