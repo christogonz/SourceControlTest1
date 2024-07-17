@@ -16,7 +16,7 @@ struct ContentView: View {
                         Image(systemName: "magnifyingglass")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Chritopher!!!!!")
+                        Text("Chritopher!")
                         
                         Button("Subscribe") {
                             
