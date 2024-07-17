@@ -11,12 +11,12 @@ struct ContentView: View {
     var body: some View {
         VStack {
             ScrollView {
-                VStack {
-                    ForEach(0..<20) { _ in
-                        Image(systemName: "globe")
+                VStack(spacing: 5) {
+                    ForEach(0..<5) { _ in
+                        Image(systemName: "magnifyingglass")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Some new Tittle")
+                        Text("Chritopher!!!!!")
                         
                         Button("Subscribe") {
                             
