@@ -34,25 +34,3 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
-
-
-/*
- Commit massages
- 
- NEW FEATURE:
- [Feature] Description of the feature
- 
- BUG IN PRODUCTION:
- [Patch] Description of patch
- 
- BUG NOT IN PRODUCTION
- [Bug] description of the bug
- 
- MUNDANE TASKS:
- [Clean] Description of changes
- 
- REALESE:
- [Release] Description of release
- 
- */
-
