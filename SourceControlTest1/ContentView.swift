@@ -13,12 +13,12 @@ struct ContentView: View {
             ScrollView {
                 VStack(spacing: 5) {
                     ForEach(0..<5) { _ in
-                        Image(systemName: "magnifyingglass")
+                        Image(systemName: "globe")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Chritopher!!!!!")
+                        Text("Chritopher!")
                         
-                        Button("Subscribe") {
+                        Button("Click me") {
                             
                         }
                     }
