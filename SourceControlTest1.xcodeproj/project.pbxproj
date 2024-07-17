@@ -12,6 +12,7 @@
 		C2A6C8C92C46E1C7007810B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A6C8C82C46E1C7007810B8 /* Assets.xcassets */; };
 		C2A6C8CC2C46E1C7007810B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A6C8CB2C46E1C7007810B8 /* Preview Assets.xcassets */; };
 		C2A6C8D32C46EC61007810B8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A6C8D22C46EC61007810B8 /* HomeView.swift */; };
+		C2A6C8D52C47E010007810B8 /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A6C8D42C47E010007810B8 /* ExploreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C2A6C8C82C46E1C7007810B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2A6C8CB2C46E1C7007810B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C2A6C8D22C46EC61007810B8 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		C2A6C8D42C47E010007810B8 /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C2A6C8C82C46E1C7007810B8 /* Assets.xcassets */,
 				C2A6C8CA2C46E1C7007810B8 /* Preview Content */,
 				C2A6C8D22C46EC61007810B8 /* HomeView.swift */,
+				C2A6C8D42C47E010007810B8 /* ExploreView.swift */,
 			);
 			path = SourceControlTest1;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				C2A6C8D32C46EC61007810B8 /* HomeView.swift in Sources */,
 				C2A6C8C72C46E1C6007810B8 /* ContentView.swift in Sources */,
+				C2A6C8D52C47E010007810B8 /* ExploreView.swift in Sources */,
 				C2A6C8C52C46E1C6007810B8 /* SourceControlTest1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
