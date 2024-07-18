@@ -20,7 +20,7 @@ struct ContentView: View {
                         Image(systemName: "globe")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Chritopher!")
+                        Text("Chritopher Gonzalez")
                         
                         Button("Click me") {
                             
